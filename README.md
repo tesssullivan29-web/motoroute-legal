@@ -1,2 +1,2 @@
 # motoPath-legal
-Privacy Policy and terms of service for MotoRoute
+Privacy Policy and terms of service for MotoPath
